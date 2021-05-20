@@ -1,0 +1,14 @@
+body {
+  background: black;
+}
+
+.clock {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #17fe51;
+  font-size: 100px;
+  font-family: OCR A Std;
+  letter-spacing: 10px;
+}
